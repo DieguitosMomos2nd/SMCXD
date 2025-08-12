@@ -1407,3 +1407,9 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [22:43:20] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/6752, l='ServerLevel[world]', x=809.52, y=139.49, z=10.35] died: Restless Spirit was slain by Brrrdipdip
 [22:50:21] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[23:00:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7 timed out
+[23:00:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Brrrdipdip
+[23:00:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Brrrdipdip
+[23:00:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
+[23:00:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
+[23:00:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Brrrdipdip (7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7) successfully connected to voice chat
