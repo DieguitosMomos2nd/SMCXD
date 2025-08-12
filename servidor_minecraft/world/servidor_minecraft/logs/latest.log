@@ -1,0 +1,2087 @@
+[21:10:57] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.14
+[21:10:57] [ForkJoinPool-1-worker-3/WARN]: Mod icommon-bundle uses the version bundle which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'bundle'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:10:58] [ForkJoinPool-1-worker-4/WARN]: Mod gravestones uses the version v1.15 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'v1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:10:58] [main/INFO]: Loading 203 mods:
+	- amendments 1.20-2.0.3
+	   \-- mixinextras 0.4.1
+	- appleskin 2.5.1+mc1.20
+	- architectury 9.2.14
+	- balm 7.3.34
+	   \-- kuma_api 20.1.10
+	- better_totem_of_undying 2.1.1
+	- betteradvancements 0.4.2.25
+	- betterdeserttemples 1.20-Fabric-3.0.3
+	   \-- org_reflections_reflections 0.10.2
+	- betterdungeons 1.20-Fabric-4.0.4
+	- betterendisland 1.20-Fabric-2.0.6
+	- betterfortresses 1.20-Fabric-2.0.6
+	- betterjungletemples 1.20-Fabric-2.0.5
+	- bettermineshafts 1.20-Fabric-4.0.4
+	- betteroceanmonuments 1.20-Fabric-3.0.4
+	- betterstrongholds 1.20-Fabric-4.0.3
+	- bettervillage 3.3.1
+	- betterwitchhuts 1.20-Fabric-3.0.3
+	- brutalnightmare 4.6.3
+	- c2me 0.2.0+alpha.11.16
+	   |-- c2me-base 0.2.0+alpha.11.16
+	   |-- c2me-client-uncapvd 0.2.0+alpha.11.16
+	   |-- c2me-fixes-chunkio-threading-issues 0.2.0+alpha.11.16
+	   |-- c2me-fixes-general-threading-issues 0.2.0+alpha.11.16
+	   |-- c2me-fixes-worldgen-threading-issues 0.2.0+alpha.11.16
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.2.0+alpha.11.16
+	   |-- c2me-notickvd 0.2.0+alpha.11.16
+	   |-- c2me-opts-allocs 0.2.0+alpha.11.16
+	   |-- c2me-opts-chunk-access 0.2.0+alpha.11.16
+	   |-- c2me-opts-chunkio 0.2.0+alpha.11.16
+	   |-- c2me-opts-math 0.2.0+alpha.11.16
+	   |-- c2me-opts-scheduling 0.2.0+alpha.11.16
+	   |-- c2me-opts-worldgen-general 0.2.0+alpha.11.16
+	   |-- c2me-opts-worldgen-vanilla 0.2.0+alpha.11.16
+	   |-- c2me-rewrites-chunk-serializer 0.2.0+alpha.11.16
+	   |-- c2me-rewrites-chunkio 0.2.0+alpha.11.16
+	   |-- c2me-server-utils 0.2.0+alpha.11.16
+	   |-- c2me-threading-chunkio 0.2.0+alpha.11.16
+	   |-- c2me-threading-lighting 0.2.0+alpha.11.16
+	   |-- c2me-threading-worldgen 0.2.0+alpha.11.16
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- net_objecthunter_exp4j 0.4.8
+	   \-- org_threadly_threadly 7.0
+	- cardinal-components 5.2.3
+	   |-- cardinal-components-base 5.2.3
+	   |-- cardinal-components-block 5.2.3
+	   |-- cardinal-components-chunk 5.2.3
+	   |-- cardinal-components-entity 5.2.3
+	   |-- cardinal-components-item 5.2.3
+	   |-- cardinal-components-level 5.2.3
+	   |-- cardinal-components-scoreboard 5.2.3
+	   \-- cardinal-components-world 5.2.3
+	- cerbons_api 1.1.0
+	- chunky 1.3.146
+	- cicada 0.14.2+1.20.1
+	   \-- org_yaml_snakeyaml 2.2
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- cobweb 1.0.1
+	- cupboard 1.20.1-2.7
+	- diagonalfences 8.1.5
+	   \-- diagonalblocks 8.0.6
+	- diagonalwindows 8.1.5
+	   \-- diagonalblocks 8.0.6
+	- do_a_barrel_roll 3.6.1+1.20.1
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   \-- mixinsquared 0.1.1
+	- endrem 5.2.4
+	- fabric-api 0.92.6+1.20.1
+	   |-- fabric-api-base 0.4.32+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.37+1802ada577
+	   |-- fabric-biome-api-v1 13.0.14+1802ada577
+	   |-- fabric-block-api-v1 1.0.12+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.3+924f046a77
+	   |-- fabric-blockrenderlayer-v1 1.1.42+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.3+1802ada577
+	   |-- fabric-command-api-v1 1.2.35+f71b366f77
+	   |-- fabric-command-api-v2 2.2.14+1802ada577
+	   |-- fabric-commands-v0 0.2.52+df3654b377
+	   |-- fabric-containers-v0 0.1.67+df3654b377
+	   |-- fabric-content-registries-v0 4.0.13+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.6+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.20+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.2+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.7+1802ada577
+	   |-- fabric-dimensions-v1 2.1.55+1802ada577
+	   |-- fabric-entity-events-v1 1.6.1+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.5+13a40c6677
+	   |-- fabric-events-lifecycle-v0 0.2.64+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.41+1802ada577
+	   |-- fabric-item-api-v1 2.1.29+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.14+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.38+1802ada577
+	   |-- fabric-keybindings-v0 0.2.36+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.23+1802ada577
+	   |-- fabric-loot-api-v2 1.2.3+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.47+9e7660c677
+	   |-- fabric-message-api-v1 5.1.10+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.52+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.4+1802ada577
+	   |-- fabric-models-v0 0.4.3+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.14+a158aa0477
+	   |-- fabric-networking-v0 0.3.54+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.5+e35120df77
+	   |-- fabric-particles-v1 1.1.3+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.24+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.6+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.2+1802ada577
+	   |-- fabric-renderer-indigo 1.5.3+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.47+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.39+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.29+1802ada577
+	   |-- fabric-rendering-v0 1.1.50+df3654b377
+	   |-- fabric-rendering-v1 3.0.9+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.9+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.12+fb82e9d777
+	   |-- fabric-screen-api-v1 2.0.9+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.33+1802ada577
+	   |-- fabric-sound-api-v1 1.0.14+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.6+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.2+1802ada577
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- farmersdelight 1.20.1-2.4.0+refabricated
+	   |-- mm 2.3
+	   |-- porting_lib_accessors 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_base 2.3.8+1.20.1
+	   |    |-- porting_lib_attributes 2.3.8+1.20.1
+	   |    |-- porting_lib_common 2.3.8+1.20.1
+	   |    |-- porting_lib_core 2.3.8+1.20.1
+	   |    |-- porting_lib_entity 2.3.8+1.20.1
+	   |    |-- porting_lib_extensions 2.3.8+1.20.1
+	   |    |-- porting_lib_fluids 2.3.8+1.20.1
+	   |    |-- porting_lib_gui_utils 2.3.8+1.20.1
+	   |    |-- porting_lib_mixin_extensions 2.3.8+1.20.1
+	   |    |-- porting_lib_transfer 2.3.8+1.20.1
+	   |    |-- porting_lib_utility 2.3.8+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_config 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_lazy_registration 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_loot 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_networking 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_recipe_book_categories 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_tags 3.0
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   \-- porting_lib_tool_actions 2.3.8+1.20.1
+	        \-- porting_lib_core 2.3.8+1.20.1
+	- fastconfigapi 2.1.0
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- ferritecore 6.0.1
+	- fokusapi 2.7
+	- forgeconfigapiport 8.0.2
+	- framework 0.7.15
+	   \-- org_javassist_javassist 3.29.2-GA
+	- geckolib 4.7.3
+	   \-- com_eliotlash_mclib_mclib 20
+	- gravestones v1.15
+	- icommon-bundle bundle
+	   \-- icommon 1.20.1
+	- incendium 5.3.5
+	- jade 11.13.1+fabric
+	- java 17
+	- jei 15.20.0.112
+	- krypton 0.2.3
+	   \-- com_velocitypowered_velocity-native 3.2.0-SNAPSHOT
+	- labellingcontainers 1.8.0
+	- lavender 0.1.9+1.20
+	   |-- lavender-md 0.1.1+1.20
+	   \-- lavender-md-owo-ui 0.1.1+1.20
+	- lazydfu 0.1.3
+	- libraryferret 4.0.0
+	- lithium 0.11.3
+	- lockandblock 0.8.0
+	- mavapi 1.1.4
+	- mavm 1.2.6
+	- mcda 5.0.2
+	- mcdw 9.0.4
+	- mcwbridges 3.1.0
+	- mcwdoors 1.1.2
+	- mcwpaintings 1.0.5
+	- mcwwindows 2.4.0
+	- midnightlib 1.4.1
+	- minecraft 1.20.1
+	- moonlight 1.20-2.15.6
+	- moremobvariants 1.3.1
+	- owo 0.11.2+1.20
+	   \-- blue_endless_jankson 1.2.2
+	- puzzleslib 8.1.32
+	   \-- puzzlesaccessapi 20.1.1
+	- refurbished_furniture 1.0.14
+	- repurposed_structures 7.1.19+1.20.1-fabric
+	   \-- mixinextras 0.4.1
+	- resourcefulconfig 2.1.3
+	- shulkerboxtooltip 4.0.4+1.20.1
+	- smoothchunk 1.20.1-4.1
+	- soul_fire_d 4.0.11
+	- starlight 1.1.2+fabric.dbc156f
+	- terrablender 3.0.1.10
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- travelersbackpack 9.1.37
+	   \-- reach-entity-attributes 2.4.0
+	- treechop 0.19.0
+	- voicechat 1.20.1-2.5.35
+	   \-- fabric-key-binding-api-v1 1.0.36+fb8d95da82
+	- void_lib 1.1.5
+	- waystones 14.1.17
+	- xaerominimap 25.2.10
+	- xaeroworldmap 1.39.12
+	- yet_another_config_lib_v3 3.6.6+1.20.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- mixinextras 0.4.1
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yungsapi 1.20-Fabric-4.0.6
+	- yungsbridges 1.20-Fabric-4.0.3
+	- yungscavebiomes 1.20.1-Fabric-2.0.5
+	- yungsextras 1.20-Fabric-4.0.3
+	- yungsmenutweaks 1.20.1-Fabric-1.0.2
+[21:10:58] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/supreme-octo-invention/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:10:58] [main/INFO]: Compatibility level set to JAVA_17
+[21:10:58] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[21:10:59] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@9.2.14 (*) (defined in c2me)
+[21:10:59] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[21:10:59] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[21:10:59] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[21:10:59] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
+[21:10:59] [main/WARN]: Reference map 'CerbonsAPI-Fabric-1.20.1-fabric-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:10:59] [main/INFO]: Loaded configuration file for Lithium: 131 options available, 2 override(s) found
+[21:10:59] [main/WARN]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:10:59] [main/WARN]: Reference map 'puzzlesaccessapi.fabric.refmap.json' for puzzlesaccessapi.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:10:59] [main/WARN]: Reference map 'repurposed_structures.refmap.json' for repurposed_structures-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:10:59] [main/WARN]: Reference map 'repurposed_structures.refmap.json' for repurposed_structures-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:10:59] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:10:59] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:10:59] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[21:10:59] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[21:10:59] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[21:10:59] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[21:10:59] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[21:10:59] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[21:10:59] [main/WARN]: Error loading class: net/mehvahdjukaar/supplementaries/common/entities/SlimeBallEntity (java.lang.ClassNotFoundException: net/mehvahdjukaar/supplementaries/common/entities/SlimeBallEntity)
+[21:10:59] [main/INFO]: -------------------------------------------------
+[21:10:59] [main/INFO]:  iCommon - Isaiah's common library for mods.
+[21:10:59] [main/INFO]:  Copyright (c) 2018-2024 Isaiah. Running on MC 1.20.1
+[21:10:59] [main/INFO]: -------------------------------------------------
+[21:10:59] [main/INFO]: Applying mixin: MixinMinecraftServer...
+[21:10:59] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[21:10:59] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
+[21:11:00] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[21:11:00] [main/INFO]: Applied 22 mixins.
+[21:11:00] [main/INFO]: Scanning jar files for annotations...
+[21:11:00] [main/INFO]: Found 110 annotated classes in mod 'amendments'
+[21:11:00] [main/INFO]: Found 11 annotated classes in mod 'appleskin'
+[21:11:00] [main/INFO]: Found 221 annotated classes in mod 'architectury'
+[21:11:00] [main/INFO]: Found 123 annotated classes in mod 'balm'
+[21:11:00] [main/INFO]: Found 8 annotated classes in mod 'kuma_api'
+[21:11:00] [main/INFO]: Found 18 annotated classes in mod 'better_totem_of_undying'
+[21:11:00] [main/INFO]: Found 2 annotated classes in mod 'betteradvancements'
+[21:11:00] [main/INFO]: Found 38 annotated classes in mod 'betterdeserttemples'
+[21:11:00] [main/INFO]: Found 12 annotated classes in mod 'org_reflections_reflections'
+[21:11:00] [main/INFO]: Found 51 annotated classes in mod 'betterdungeons'
+[21:11:00] [main/INFO]: Found 18 annotated classes in mod 'betterendisland'
+[21:11:00] [main/INFO]: Found 17 annotated classes in mod 'betterfortresses'
+[21:11:00] [main/INFO]: Found 24 annotated classes in mod 'betterjungletemples'
+[21:11:00] [main/INFO]: Found 10 annotated classes in mod 'bettermineshafts'
+[21:11:00] [main/INFO]: Found 22 annotated classes in mod 'betteroceanmonuments'
+[21:11:00] [main/INFO]: Found 10 annotated classes in mod 'betterstrongholds'
+[21:11:00] [main/INFO]: Found 5 annotated classes in mod 'bettervillage'
+[21:11:00] [main/INFO]: Found 15 annotated classes in mod 'betterwitchhuts'
+[21:11:00] [main/INFO]: Found 18 annotated classes in mod 'blue_endless_jankson'
+[21:11:00] [main/INFO]: Found 11 annotated classes in mod 'c2me-threading-worldgen'
+[21:11:00] [main/INFO]: Found 49 annotated classes in mod 'c2me-base'
+[21:11:00] [main/INFO]: Found 28 annotated classes in mod 'c2me-fixes-worldgen-threading-issues'
+[21:11:00] [main/INFO]: Found 2 annotated classes in mod 'c2me-threading-lighting'
+[21:11:00] [main/INFO]: Found 1 annotated classes in mod 'com_ibm_async_asyncutil'
+[21:11:00] [main/INFO]: Found 9 annotated classes in mod 'c2me-threading-chunkio'
+[21:11:00] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-chunkio'
+[21:11:00] [main/INFO]: Found 8 annotated classes in mod 'c2me-rewrites-chunk-serializer'
+[21:11:00] [main/INFO]: Found 17 annotated classes in mod 'c2me-opts-scheduling'
+[21:11:00] [main/INFO]: Found 2 annotated classes in mod 'c2me-fixes-chunkio-threading-issues'
+[21:11:00] [main/INFO]: Found 7 annotated classes in mod 'c2me-rewrites-chunkio'
+[21:11:00] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-chunk-access'
+[21:11:00] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-worldgen-vanilla'
+[21:11:00] [main/INFO]: Found 1 annotated classes in mod 'c2me-server-utils'
+[21:11:00] [main/INFO]: Found 1 annotated classes in mod 'c2me-fixes-worldgen-vanilla-bugs'
+[21:11:00] [main/INFO]: Found 13 annotated classes in mod 'c2me-opts-allocs'
+[21:11:00] [main/INFO]: Found 6 annotated classes in mod 'c2me-fixes-general-threading-issues'
+[21:11:00] [main/INFO]: Found 7 annotated classes in mod 'c2me-notickvd'
+[21:11:00] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-worldgen-general'
+[21:11:00] [main/INFO]: Found 2 annotated classes in mod 'c2me-opts-math'
+[21:11:00] [main/INFO]: Found 49 annotated classes in mod 'c2me-base'
+[21:11:00] [main/INFO]: Found 2 annotated classes in mod 'c2me-fixes-chunkio-threading-issues'
+[21:11:00] [main/INFO]: Found 6 annotated classes in mod 'c2me-fixes-general-threading-issues'
+[21:11:00] [main/INFO]: Found 28 annotated classes in mod 'c2me-fixes-worldgen-threading-issues'
+[21:11:00] [main/INFO]: Found 1 annotated classes in mod 'c2me-fixes-worldgen-vanilla-bugs'
+[21:11:00] [main/INFO]: Found 7 annotated classes in mod 'c2me-notickvd'
+[21:11:00] [main/INFO]: Found 13 annotated classes in mod 'c2me-opts-allocs'
+[21:11:00] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-chunk-access'
+[21:11:00] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-chunkio'
+[21:11:00] [main/INFO]: Found 2 annotated classes in mod 'c2me-opts-math'
+[21:11:00] [main/INFO]: Found 17 annotated classes in mod 'c2me-opts-scheduling'
+[21:11:00] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-worldgen-general'
+[21:11:00] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-worldgen-vanilla'
+[21:11:00] [main/INFO]: Found 8 annotated classes in mod 'c2me-rewrites-chunk-serializer'
+[21:11:00] [main/INFO]: Found 7 annotated classes in mod 'c2me-rewrites-chunkio'
+[21:11:00] [main/INFO]: Found 1 annotated classes in mod 'c2me-server-utils'
+[21:11:00] [main/INFO]: Found 9 annotated classes in mod 'c2me-threading-chunkio'
+[21:11:00] [main/INFO]: Found 2 annotated classes in mod 'c2me-threading-lighting'
+[21:11:00] [main/INFO]: Found 11 annotated classes in mod 'c2me-threading-worldgen'
+[21:11:00] [main/INFO]: Found 17 annotated classes in mod 'cardinal-components-entity'
+[21:11:00] [main/INFO]: Found 12 annotated classes in mod 'cardinal-components-chunk'
+[21:11:00] [main/INFO]: Found 19 annotated classes in mod 'cardinal-components-scoreboard'
+[21:11:00] [main/INFO]: Found 34 annotated classes in mod 'cardinal-components-base'
+[21:11:00] [main/INFO]: Found 8 annotated classes in mod 'cardinal-components-item'
+[21:11:00] [main/INFO]: Found 19 annotated classes in mod 'cardinal-components-block'
+[21:11:00] [main/INFO]: Found 9 annotated classes in mod 'cardinal-components-level'
+[21:11:00] [main/INFO]: Found 8 annotated classes in mod 'cardinal-components-world'
+[21:11:00] [main/INFO]: Found 34 annotated classes in mod 'cardinal-components-base'
+[21:11:00] [main/INFO]: Found 19 annotated classes in mod 'cardinal-components-block'
+[21:11:00] [main/INFO]: Found 12 annotated classes in mod 'cardinal-components-chunk'
+[21:11:00] [main/INFO]: Found 17 annotated classes in mod 'cardinal-components-entity'
+[21:11:00] [main/INFO]: Found 8 annotated classes in mod 'cardinal-components-item'
+[21:11:00] [main/INFO]: Found 9 annotated classes in mod 'cardinal-components-level'
+[21:11:01] [main/INFO]: Found 19 annotated classes in mod 'cardinal-components-scoreboard'
+[21:11:01] [main/INFO]: Found 8 annotated classes in mod 'cardinal-components-world'
+[21:11:01] [main/INFO]: Found 22 annotated classes in mod 'cerbons_api'
+[21:11:01] [main/INFO]: Found 4 annotated classes in mod 'chunky'
+[21:11:01] [main/INFO]: Found 11 annotated classes in mod 'cicada'
+[21:11:01] [main/INFO]: Found 1 annotated classes in mod 'org_yaml_snakeyaml'
+[21:11:01] [main/INFO]: Found 224 annotated classes in mod 'cloth-config'
+[21:11:01] [main/INFO]: Found 22 annotated classes in mod 'cobweb'
+[21:11:01] [main/INFO]: Found 19 annotated classes in mod 'com_electronwill_night-config_core'
+[21:11:01] [main/INFO]: Found 1 annotated classes in mod 'com_ibm_async_asyncutil'
+[21:11:01] [main/INFO]: Found 1 annotated classes in mod 'com_twelvemonkeys_common_common-image'
+[21:11:01] [main/INFO]: Found 2 annotated classes in mod 'com_twelvemonkeys_common_common-io'
+[21:11:01] [main/INFO]: Found 3 annotated classes in mod 'com_twelvemonkeys_common_common-lang'
+[21:11:01] [main/INFO]: Found 3 annotated classes in mod 'com_twelvemonkeys_imageio_imageio-core'
+[21:11:01] [main/INFO]: Found 4 annotated classes in mod 'com_twelvemonkeys_imageio_imageio-metadata'
+[21:11:01] [main/INFO]: Found 1 annotated classes in mod 'com_velocitypowered_velocity-native'
+[21:11:01] [main/INFO]: Found 5 annotated classes in mod 'cupboard'
+[21:11:01] [main/INFO]: Found 13 annotated classes in mod 'diagonalblocks'
+[21:11:01] [main/INFO]: Found 2 annotated classes in mod 'diagonalfences'
+[21:11:01] [main/INFO]: Found 2 annotated classes in mod 'diagonalwindows'
+[21:11:01] [main/INFO]: Found 13 annotated classes in mod 'diagonalblocks'
+[21:11:01] [main/INFO]: Found 24 annotated classes in mod 'do_a_barrel_roll'
+[21:11:01] [main/INFO]: Found 3 annotated classes in mod 'mixinsquared'
+[21:11:01] [main/INFO]: Found 5 annotated classes in mod 'fabric-permissions-api-v0'
+[21:11:01] [main/INFO]: Found 9 annotated classes in mod 'endrem'
+[21:11:01] [main/INFO]: Found 5 annotated classes in mod 'fabric-permissions-api-v0'
+[21:11:01] [main/INFO]: Found 131 annotated classes in mod 'farmersdelight'
+[21:11:01] [main/INFO]: Found 208 annotated classes in mod 'porting_lib_base'
+[21:11:01] [main/INFO]: Found 29 annotated classes in mod 'porting_lib_transfer'
+[21:11:01] [main/INFO]: Found 2 annotated classes in mod 'porting_lib_utility'
+[21:11:01] [main/INFO]: Found 16 annotated classes in mod 'porting_lib_fluids'
+[21:11:01] [main/INFO]: Found 4 annotated classes in mod 'porting_lib_core'
+[21:11:01] [main/INFO]: Found 3 annotated classes in mod 'porting_lib_attributes'
+[21:11:01] [main/INFO]: Found 4 annotated classes in mod 'porting_lib_mixin_extensions'
+[21:11:01] [main/INFO]: Found 125 annotated classes in mod 'porting_lib_entity'
+[21:11:01] [main/INFO]: Found 2 annotated classes in mod 'porting_lib_gui_utils'
+[21:11:01] [main/INFO]: Found 27 annotated classes in mod 'porting_lib_extensions'
+[21:11:01] [main/INFO]: Found 12 annotated classes in mod 'porting_lib_common'
+[21:11:01] [main/INFO]: Found 3 annotated classes in mod 'porting_lib_recipe_book_categories'
+[21:11:01] [main/INFO]: Found 4 annotated classes in mod 'porting_lib_tags'
+[21:11:01] [main/INFO]: Found 65 annotated classes in mod 'porting_lib_accessors'
+[21:11:01] [main/INFO]: Found 2 annotated classes in mod 'porting_lib_networking'
+[21:11:01] [main/INFO]: Found 12 annotated classes in mod 'porting_lib_loot'
+[21:11:01] [main/INFO]: Found 2 annotated classes in mod 'mm'
+[21:11:01] [main/INFO]: Found 4 annotated classes in mod 'porting_lib_config'
+[21:11:01] [main/INFO]: Found 2 annotated classes in mod 'porting_lib_lazy_registration'
+[21:11:01] [main/INFO]: Found 28 annotated classes in mod 'porting_lib_tool_actions'
+[21:11:01] [main/INFO]: Found 8 annotated classes in mod 'fastconfigapi'
+[21:11:01] [main/INFO]: Found 33 annotated classes in mod 'ferritecore'
+[21:11:01] [main/INFO]: Found 45 annotated classes in mod 'forgeconfigapiport'
+[21:11:01] [main/INFO]: Found 62 annotated classes in mod 'framework'
+[21:11:01] [main/INFO]: Found 5 annotated classes in mod 'org_javassist_javassist'
+[21:11:01] [main/INFO]: Found 90 annotated classes in mod 'geckolib'
+[21:11:01] [main/INFO]: Found 9 annotated classes in mod 'gravestones'
+[21:11:01] [main/INFO]: Found 35 annotated classes in mod 'icommon'
+[21:11:01] [main/INFO]: Found 35 annotated classes in mod 'icommon'
+[21:11:01] [main/INFO]: Found 98 annotated classes in mod 'jade'
+[21:11:01] [main/INFO]: Found 361 annotated classes in mod 'jei'
+[21:11:01] [main/INFO]: Found 19 annotated classes in mod 'krypton'
+[21:11:01] [main/INFO]: Found 1 annotated classes in mod 'com_velocitypowered_velocity-native'
+[21:11:01] [main/INFO]: Found 8 annotated classes in mod 'kuma_api'
+[21:11:01] [main/INFO]: Found 12 annotated classes in mod 'labellingcontainers'
+[21:11:01] [main/INFO]: Found 48 annotated classes in mod 'lavender'
+[21:11:01] [main/INFO]: Found 8 annotated classes in mod 'lavender-md'
+[21:11:01] [main/INFO]: Found 5 annotated classes in mod 'lavender-md-owo-ui'
+[21:11:01] [main/INFO]: Found 8 annotated classes in mod 'lavender-md'
+[21:11:01] [main/INFO]: Found 5 annotated classes in mod 'lavender-md-owo-ui'
+[21:11:01] [main/INFO]: Found 1 annotated classes in mod 'lazydfu'
+[21:11:01] [main/INFO]: Found 12 annotated classes in mod 'libraryferret'
+[21:11:01] [main/INFO]: Found 368 annotated classes in mod 'lithium'
+[21:11:01] [main/INFO]: Found 23 annotated classes in mod 'lockandblock'
+[21:11:01] [main/INFO]: Found 19 annotated classes in mod 'mavapi'
+[21:11:01] [main/INFO]: Found 7 annotated classes in mod 'mavm'
+[21:11:01] [main/INFO]: Found 23 annotated classes in mod 'mcda'
+[21:11:01] [main/INFO]: Found 63 annotated classes in mod 'mcdw'
+[21:11:01] [main/INFO]: Found 7 annotated classes in mod 'mcwbridges'
+[21:11:01] [main/INFO]: Found 4 annotated classes in mod 'mcwdoors'
+[21:11:01] [main/INFO]: Found 12 annotated classes in mod 'mcwwindows'
+[21:11:01] [main/INFO]: Found 13 annotated classes in mod 'midnightlib'
+[21:11:01] [main/INFO]: Found 3 annotated classes in mod 'mixinsquared'
+[21:11:01] [main/INFO]: Found 2 annotated classes in mod 'mm'
+[21:11:01] [main/INFO]: Found 281 annotated classes in mod 'moonlight'
+[21:11:01] [main/INFO]: Found 30 annotated classes in mod 'moremobvariants'
+[21:11:01] [main/INFO]: Found 5 annotated classes in mod 'org_javassist_javassist'
+[21:11:01] [main/INFO]: Found 1 annotated classes in mod 'org_quiltmc_parsers_json'
+[21:11:01] [main/INFO]: Found 12 annotated classes in mod 'org_reflections_reflections'
+[21:11:01] [main/INFO]: Found 1 annotated classes in mod 'org_yaml_snakeyaml'
+[21:11:01] [main/INFO]: Found 217 annotated classes in mod 'owo'
+[21:11:01] [main/INFO]: Found 18 annotated classes in mod 'blue_endless_jankson'
+[21:11:01] [main/INFO]: Found 65 annotated classes in mod 'porting_lib_accessors'
+[21:11:01] [main/INFO]: Found 3 annotated classes in mod 'porting_lib_attributes'
+[21:11:01] [main/INFO]: Found 208 annotated classes in mod 'porting_lib_base'
+[21:11:01] [main/INFO]: Found 29 annotated classes in mod 'porting_lib_transfer'
+[21:11:01] [main/INFO]: Found 2 annotated classes in mod 'porting_lib_utility'
+[21:11:02] [main/INFO]: Found 16 annotated classes in mod 'porting_lib_fluids'
+[21:11:02] [main/INFO]: Found 4 annotated classes in mod 'porting_lib_core'
+[21:11:02] [main/INFO]: Found 3 annotated classes in mod 'porting_lib_attributes'
+[21:11:02] [main/INFO]: Found 4 annotated classes in mod 'porting_lib_mixin_extensions'
+[21:11:02] [main/INFO]: Found 125 annotated classes in mod 'porting_lib_entity'
+[21:11:02] [main/INFO]: Found 2 annotated classes in mod 'porting_lib_gui_utils'
+[21:11:02] [main/INFO]: Found 27 annotated classes in mod 'porting_lib_extensions'
+[21:11:02] [main/INFO]: Found 12 annotated classes in mod 'porting_lib_common'
+[21:11:02] [main/INFO]: Found 12 annotated classes in mod 'porting_lib_common'
+[21:11:02] [main/INFO]: Found 4 annotated classes in mod 'porting_lib_config'
+[21:11:02] [main/INFO]: Found 4 annotated classes in mod 'porting_lib_core'
+[21:11:02] [main/INFO]: Found 125 annotated classes in mod 'porting_lib_entity'
+[21:11:02] [main/INFO]: Found 27 annotated classes in mod 'porting_lib_extensions'
+[21:11:02] [main/INFO]: Found 16 annotated classes in mod 'porting_lib_fluids'
+[21:11:02] [main/INFO]: Found 2 annotated classes in mod 'porting_lib_gui_utils'
+[21:11:02] [main/INFO]: Found 2 annotated classes in mod 'porting_lib_lazy_registration'
+[21:11:02] [main/INFO]: Found 12 annotated classes in mod 'porting_lib_loot'
+[21:11:02] [main/INFO]: Found 4 annotated classes in mod 'porting_lib_mixin_extensions'
+[21:11:02] [main/INFO]: Found 2 annotated classes in mod 'porting_lib_networking'
+[21:11:02] [main/INFO]: Found 3 annotated classes in mod 'porting_lib_recipe_book_categories'
+[21:11:02] [main/INFO]: Found 4 annotated classes in mod 'porting_lib_tags'
+[21:11:02] [main/INFO]: Found 28 annotated classes in mod 'porting_lib_tool_actions'
+[21:11:02] [main/INFO]: Found 29 annotated classes in mod 'porting_lib_transfer'
+[21:11:02] [main/INFO]: Found 2 annotated classes in mod 'porting_lib_utility'
+[21:11:02] [main/INFO]: Found 2 annotated classes in mod 'puzzlesaccessapi'
+[21:11:02] [main/INFO]: Found 452 annotated classes in mod 'puzzleslib'
+[21:11:02] [main/INFO]: Found 2 annotated classes in mod 'puzzlesaccessapi'
+[21:11:02] [main/INFO]: Found 14 annotated classes in mod 'reach-entity-attributes'
+[21:11:02] [main/INFO]: Found 184 annotated classes in mod 'refurbished_furniture'
+[21:11:02] [main/INFO]: Found 54 annotated classes in mod 'repurposed_structures'
+[21:11:02] [main/INFO]: Found 40 annotated classes in mod 'resourcefulconfig'
+[21:11:02] [main/INFO]: Found 77 annotated classes in mod 'shulkerboxtooltip'
+[21:11:02] [main/INFO]: Found 5 annotated classes in mod 'smoothchunk'
+[21:11:02] [main/INFO]: Found 37 annotated classes in mod 'soul_fire_d'
+[21:11:02] [main/INFO]: Found 13 annotated classes in mod 'starlight'
+[21:11:02] [main/INFO]: Found 11 annotated classes in mod 'terrablender'
+[21:11:02] [main/INFO]: Found 19 annotated classes in mod 'com_electronwill_night-config_core'
+[21:11:02] [main/INFO]: Found 109 annotated classes in mod 'travelersbackpack'
+[21:11:02] [main/INFO]: Found 14 annotated classes in mod 'reach-entity-attributes'
+[21:11:02] [main/INFO]: Found 33 annotated classes in mod 'treechop'
+[21:11:02] [main/INFO]: Found 187 annotated classes in mod 'voicechat'
+[21:11:02] [main/INFO]: Found 50 annotated classes in mod 'waystones'
+[21:11:02] [main/INFO]: Found 178 annotated classes in mod 'xaerominimap'
+[21:11:02] [main/INFO]: Found 52 annotated classes in mod 'xaeroworldmap'
+[21:11:02] [main/INFO]: Found 158 annotated classes in mod 'yet_another_config_lib_v3'
+[21:11:02] [main/INFO]: Found 4 annotated classes in mod 'com_twelvemonkeys_imageio_imageio-metadata'
+[21:11:02] [main/INFO]: Found 2 annotated classes in mod 'com_twelvemonkeys_common_common-io'
+[21:11:02] [main/INFO]: Found 1 annotated classes in mod 'com_twelvemonkeys_common_common-image'
+[21:11:02] [main/INFO]: Found 1 annotated classes in mod 'org_quiltmc_parsers_json'
+[21:11:02] [main/INFO]: Found 3 annotated classes in mod 'com_twelvemonkeys_imageio_imageio-core'
+[21:11:02] [main/INFO]: Found 3 annotated classes in mod 'com_twelvemonkeys_common_common-lang'
+[21:11:02] [main/INFO]: Found 33 annotated classes in mod 'yungsapi'
+[21:11:02] [main/INFO]: Found 7 annotated classes in mod 'yungsbridges'
+[21:11:02] [main/INFO]: Found 95 annotated classes in mod 'yungscavebiomes'
+[21:11:02] [main/INFO]: Found 13 annotated classes in mod 'yungsextras'
+[21:11:02] [main/INFO]: Found 11 annotated classes in mod 'yungsmenutweaks'
+[21:11:02] [main/INFO]: Scan completed in 2140 ms!
+[21:11:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:11:07] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$dch000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[21:11:10] [main/INFO]: Loaded config amendments-common.json
+[21:11:10] [main/INFO]: Reflections took 47 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:10] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:10] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[21:11:10] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[21:11:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:10] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[21:11:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[21:11:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[21:11:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[21:11:10] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:10] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[21:11:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[21:11:10] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:10] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[21:11:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[21:11:11] [main/INFO]: Loaded config for: cupboard.json
+[21:11:11] [main/INFO]: Constructing common components for diagonalblocks:main
+[21:11:11] [main/INFO]: Constructing common components for diagonalfences:main
+[21:11:11] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 45ms
+[21:11:11] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 52ms
+[21:11:11] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 115ms
+[21:11:11] [main/INFO]: Constructing common components for diagonalwindows:main
+[21:11:11] [main/INFO]: Constructing shapes for DiagonalStainedGlassPaneBlock[NodeWidth=1.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 21ms
+[21:11:11] [Cicada thread 0/INFO]: 'what'
+[21:11:11] [Cicada thread 0/INFO]: 'that's not you'
+[21:11:11] [Cicada thread 0/INFO]: '8 was the eight version of you and the first version of louise and was eaten by dicedpixels in the bite of 87'
+[21:11:11] [Cicada thread 0/INFO]: '9 was the ninth version of you and the second version of louise and sadly escaped, before infiltrating this thread as louise'
+[21:11:11] [Cicada thread 0/INFO]: '10 was the tenth version of you and was stabbed'
+[21:11:11] [Cicada thread 0/INFO]: '11 was the eleventh version of you and the only one deemed sane enough to be released in the wild'
+[21:11:11] [main/ERROR]: No data fixer registered for rotten_tomato
+[21:11:11] [main/INFO]: FastConfigAPI has been initialized
+[21:11:12] [main/INFO]: Reflections took 151 ms to scan 1 urls, producing 9 keys and 75 values
+[21:11:12] [main/ERROR]: No data fixer registered for seat
+[21:11:12] [main/INFO]: iCommon Mod initialized.
+[21:11:12] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.0.x (Linux x86_64)
+[21:11:12] [main/INFO]: Initializing mod...
+[21:11:12] [main/INFO]: Registering C2S receiver with id labellingcontainers:request_taggable_blocks_config_packet
+[21:11:12] [main/INFO]: Registering C2S receiver with id labellingcontainers:label_printer_save_packet
+[21:11:12] [main/WARN]: Could not run Client Setup (mod is probably running on a Server-Only instance)
+[21:11:12] [main/INFO]: Initialize mod Library Ferret
+[21:11:12] [main/INFO]: Initialized mod Library Ferret
+[21:11:13] [main/INFO]: Registering Mod Items for lockandblock
+[21:11:13] [main/INFO]: Registering Mod Item Groups for lockandblock
+[21:11:13] [main/INFO]: Registering ModBlocks for lockandblock
+[21:11:13] [main/INFO]: Registering Block Entities for lockandblock
+[21:11:13] [main/INFO]: Registering Mod Sounds for lockandblock
+[21:11:13] [main/INFO]: Registering Blocks for mcda
+[21:11:13] [main/INFO]: Definitely not up to no good
+[21:11:13] [main/INFO]: [STDOUT]: Mod Thread Context ClassLoader: net.fabricmc.loader.impl.launch.knot.KnotClassLoader@396a51ab
+[21:11:13] [main/INFO]: Loaded config moonlight-client.json
+[21:11:13] [main/INFO]: Giving mobs a fresh coat of paint...
+[21:11:13] [main/INFO]: it seems to react to redstone
+[21:11:13] [main/INFO]: Constructing common components for puzzleslib:main
+[21:11:13] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[21:11:14] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[21:11:14] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[21:11:14] [main/INFO]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
+[21:11:14] [main/ERROR]: No data fixer registered for 
+[21:11:14] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[21:11:14] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[21:11:14] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[21:11:14] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[21:11:14] [main/INFO]: [voicechat] Compatibility version 18
+[21:11:14] [main/INFO]: [voicechat] Loading plugins
+[21:11:14] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[21:11:14] [main/INFO]: [voicechat] Initializing plugins
+[21:11:14] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[21:11:14] [main/INFO]: Void Lib successfully started!
+[21:11:14] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[21:11:14] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[21:11:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:14] [main/INFO]: Reflections took 15 ms to scan 1 urls, producing 5 keys and 65 values
+[21:11:14] [main/INFO]: Reflections took 12 ms to scan 1 urls, producing 5 keys and 65 values
+[21:11:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[21:11:14] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[21:11:14] [main/INFO]: Initialized block sets in 15ms
+[21:11:14] [main/ERROR]: No data fixer registered for medium_dragon_fireball
+[21:11:14] [main/ERROR]: No data fixer registered for medium_fireball
+[21:11:14] [main/ERROR]: No data fixer registered for ring_effect_cloud
+[21:11:14] [main/ERROR]: No data fixer registered for falling_lantern
+[21:11:14] [main/INFO]: Loaded config moonlight-common.json
+[21:11:14] [main/INFO]: Initialized color sets in 33ms
+[21:11:14] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[21:11:14] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[21:11:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:11:15] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[21:11:16] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[21:11:17] [ForkJoinPool.commonPool-worker-1/INFO]: Generated runtime resources for 0 packs in a total of: 0 ms
+[21:11:18] [main/INFO]: Loaded 18 recipes
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_summon_u5u704i29p
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_32eklo9bd3
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_ntq2i
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ssmob_rlijs7
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function fokus:pseudo_random
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 43: Expected integer at position 7: return <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 43: Expected integer at position 7: return <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function fokus:vd/cores/1.21.4
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:open_eyeblossom' at position 23: ...ock 0 0 0 <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:open_eyeblossom' at position 23: ...ock 0 0 0 <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function fokus:vd/cores/1.21.5
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Invalid or unknown entity type 'minecraft:creaking' at position 26: ...y @e[type=<--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Invalid or unknown entity type 'minecraft:creaking' at position 26: ...y @e[type=<--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function fokus:vd/cores/1.21.2
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown item 'minecraft:blue_bundle' at position 8: give @s <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown item 'minecraft:blue_bundle' at position 8: give @s <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_08yd
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_spider_0sxflh
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown block type 'minecraft:short_grass' at position 23: ...ock ~ ~ ~ <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown block type 'minecraft:short_grass' at position 23: ...ock ~ ~ ~ <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_move_p7biea6mb
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Invalid or unknown entity type 'minecraft:acacia_boat' at position 31: ...s @e[type=<--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Invalid or unknown entity type 'minecraft:acacia_boat' at position 31: ...s @e[type=<--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_spawn_hu2dpnqc
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function fokus:nxf/_ignored_5z578b
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_9zlex6vkrv2
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:knockback_resistance' of type 'minecraft:attribute'
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:knockback_resistance' of type 'minecraft:attribute'
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_nsheep_end_uriool03v
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:movement_speed' of type 'minecraft:attribute'
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:movement_speed' of type 'minecraft:attribute'
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_fbl60b
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_hp6pm
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ssmob_6l5tcj3
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function fokus:nxf/k65czx
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown criterion 'minecraft.custom:minecraft.play_one_minute'
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown criterion 'minecraft.custom:minecraft.play_one_minute'
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_hardattrb_z64ca7qr
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Invalid UUID
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Invalid UUID
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_utlha61cc
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_g3hj3j
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:knockback_resistance' of type 'minecraft:attribute'
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:knockback_resistance' of type 'minecraft:attribute'
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_nchicken_end_qyb09
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:movement_speed' of type 'minecraft:attribute'
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:movement_speed' of type 'minecraft:attribute'
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_summon_oxpvwyinw
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_kcc2b8fxf
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_summon_ossdq2y49
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:acacia_boat' of type 'minecraft:entity_type'
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:acacia_boat' of type 'minecraft:entity_type'
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_swapper_znu3zqh
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_doubler_1c18e
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 123: ...bler] run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 123: ...bler] run <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_hardattrb_471bgdtwg
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:movement_speed' of type 'minecraft:attribute'
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:movement_speed' of type 'minecraft:attribute'
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_hardattrb_gyop6cwwn
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Invalid UUID
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Invalid UUID
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ncow_end_zpnrpbg
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:movement_speed' of type 'minecraft:attribute'
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:movement_speed' of type 'minecraft:attribute'
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_nhorse_end_uvki2azt026
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:movement_speed' of type 'minecraft:attribute'
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:movement_speed' of type 'minecraft:attribute'
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_7gf81y18
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_spawn_jamkl5
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_jaun
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ssmob_9wcn8o4
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_shoot_u9y4
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_summon_642ie6hle3k
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_ability_3l2zz6
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function fokus:real_random
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 40: Expected integer at position 7: return <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 40: Expected integer at position 7: return <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function cw:nxf/_ignored_swapper_izwixgah
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function fokus:vd/cores/1.21
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Invalid or unknown entity type 'minecraft:breeze' at position 26: ...y @e[type=<--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Invalid or unknown entity type 'minecraft:breeze' at position 26: ...y @e[type=<--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function fokus:vd/cores/1.20.2
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function fokus:vd/cores/1.20.5
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 9: gamerule <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 9: gamerule <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/ERROR]: Failed to load function fokus:vd/cores/1.20.3
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 9: gamerule <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 9: gamerule <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[21:11:18] [main/INFO]: Loaded 3149 advancements
+[21:11:18] [main/INFO]: Config 'compatible-containers-common.json' was successfully loaded
+[21:11:18] [main/INFO]: Reloading config...
+[21:11:22] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[21:11:22] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[21:11:22] [main/INFO]: Applied 500 biome modifications to 73 of 75 new biomes in 34.57 ms
+[21:11:22] [Server thread/INFO]: Loading server configs...
+[21:11:22] [Server thread/INFO]: Setting IServer instance..
+[21:11:22] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:11:22] [Server thread/INFO]: Loading properties
+[21:11:22] [Server thread/INFO]: Default game type: SURVIVAL
+[21:11:22] [Server thread/INFO]: Generating keypair
+[21:11:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:11:23] [Server thread/INFO]: Using epoll channel type
+[21:11:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:11:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:11:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:11:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:11:23] [Server thread/INFO]: Preparing level "world"
+[21:11:23] [Server thread/INFO]: Enforcing safe world random access
+[21:11:23] [Server thread/INFO]: Setting IWorld for world "world"
+[21:11:23] [Server thread/WARN]: @Redirect conflict. Skipping smoothchunk.mixins.json:ChunkMapSlowUnload from mod smoothchunk->@Redirect::getSize(Ljava/util/Queue;)I with priority 1000, already redirected by c2me-opts-scheduling.mixins.json:general_overheads.MixinThreadedAnvilChunkStorage from mod c2me-opts-scheduling->@Redirect::redirectUnloadSize(Ljava/util/Queue;)I with priority 1100
+[21:11:23] [Server thread/INFO]: Setting IWorld for world "world_the_end"
+[21:11:26] [Server thread/INFO]: Setting IWorld for world "world_nether"
+[21:11:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:11:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:11:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:11:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:11:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:11:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:11:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:11:29] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[21:11:30] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[21:11:30] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:11:30] [Worker-Main-1/INFO]: Preparing spawn area: 11%
+[21:11:31] [Worker-Main-2/INFO]: Preparing spawn area: 31%
+[21:11:31] [Worker-Main-1/INFO]: Preparing spawn area: 58%
+[21:11:32] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[21:11:32] [Server thread/INFO]: Time elapsed: 6055 ms
+[21:11:32] [Server thread/INFO]: Done (9.143s)! For help, type "help"
+[21:11:32] [Server thread/INFO]: Loaded config for: smoothchunk.json
+[21:11:32] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[21:11:32] [Server thread/INFO]: Start loading plugin from Balm
+[21:11:32] [Server thread/INFO]: Start loading plugin from Jade
+[21:11:32] [Server thread/INFO]: Start loading plugin from Jade
+[21:11:32] [Server thread/INFO]: Start loading plugin from Jade
+[21:11:32] [Server thread/INFO]: Start loading plugin from HT's TreeChop
+[21:11:32] [Server thread/INFO]: Start loading plugin from Waystones
+[21:11:32] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[21:11:32] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'available-fabric.gl.at.ply.gg'
+[21:11:32] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 4137
+[21:11:32] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[21:11:32] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[21:12:05] [Server thread/INFO]: [Handshake] Sending channel query
+[21:12:06] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[21:12:06] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[21:12:06] [Server thread/INFO]: brbrpatapin[/127.64.81.78:51077] logged in with entity id 235 at (24.5, 64.0, 16.5)
+[21:12:06] [Server thread/INFO]: Syncing config to brbrpatapin (5e37de15-83f8-3397-94f2-bae69f3ab20e)
+[21:12:06] [Server thread/INFO]: Loading config from file...
+[21:12:06] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[21:12:06] [Server thread/INFO]: brbrpatapin joined the game
+[21:12:07] [Server thread/INFO]: [voicechat] Received secret request of brbrpatapin (18)
+[21:12:07] [Server thread/INFO]: [voicechat] Sent secret to brbrpatapin
+[21:12:07] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of brbrpatapin accepted server config.
+[21:12:07] [Netty Epoll Server IO #3/INFO]: [ShulkerBoxTooltip] brbrpatapin: protocol version: 2.0
+[21:12:07] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[21:12:07] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[21:12:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5e37de15-83f8-3397-94f2-bae69f3ab20e
+[21:12:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5e37de15-83f8-3397-94f2-bae69f3ab20e
+[21:12:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player brbrpatapin (5e37de15-83f8-3397-94f2-bae69f3ab20e) successfully connected to voice chat
+[21:12:12] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:12:13] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:12:15] [Server thread/INFO]: [Handshake] Sending channel query
+[21:12:16] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[21:12:16] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[21:12:16] [Server thread/INFO]: Brrrdipdip[/127.23.122.61:43345] logged in with entity id 322 at (16.5, 63.0, 21.5)
+[21:12:16] [Server thread/INFO]: Syncing config to Brrrdipdip (7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7)
+[21:12:16] [Server thread/INFO]: Loading config from file...
+[21:12:16] [Server thread/INFO]: Brrrdipdip joined the game
+[21:12:19] [Server thread/INFO]: [voicechat] Received secret request of Brrrdipdip (18)
+[21:12:19] [Server thread/INFO]: [voicechat] Sent secret to Brrrdipdip
+[21:12:19] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Brrrdipdip accepted server config.
+[21:12:19] [Netty Epoll Server IO #5/INFO]: [ShulkerBoxTooltip] Brrrdipdip: protocol version: 2.0
+[21:12:23] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:12:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
+[21:12:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
+[21:12:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Brrrdipdip (7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7) successfully connected to voice chat
+[21:12:33] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:12:34] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:12:45] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:12:55] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:12:56] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:13:16] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:13:16] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:13:27] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:13:37] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:16:41] [Server thread/INFO]: brbrpatapin has made the advancement [Stone Age]
+[21:18:39] [Server thread/INFO]: Brrrdipdip has made the advancement [Sweet Dreams]
+[21:18:53] [Server thread/INFO]: brbrpatapin has made the advancement [Sweet Dreams]
+[21:19:06] [Server thread/INFO]: brbrpatapin has made the advancement [Crops of the Wild]
+[21:19:57] [Server thread/INFO]: Brrrdipdip has made the advancement [Stone Age]
+[21:20:05] [Server thread/INFO]: brbrpatapin has made the advancement [Getting an Upgrade]
+[21:21:46] [Server thread/INFO]: Brrrdipdip lost connection: Timed out
+[21:21:46] [Server thread/INFO]: Brrrdipdip left the game
+[21:21:46] [Server thread/INFO]: [voicechat] Disconnecting client Brrrdipdip
+[21:21:51] [Server thread/INFO]: brbrpatapin lost connection: Timed out
+[21:21:51] [Server thread/INFO]: brbrpatapin left the game
+[21:21:51] [Server thread/INFO]: [voicechat] Disconnecting client brbrpatapin
+[21:22:37] [Server thread/INFO]: [Handshake] Sending channel query
+[21:22:37] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[21:22:37] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[21:22:37] [Server thread/INFO]: brbrpatapin[/127.64.81.78:39771] logged in with entity id 2366 at (97.15602234505008, 69.0, 211.2612310474954)
+[21:22:37] [Server thread/INFO]: Syncing config to brbrpatapin (5e37de15-83f8-3397-94f2-bae69f3ab20e)
+[21:22:37] [Server thread/INFO]: Loading config from file...
+[21:22:37] [Server thread/INFO]: brbrpatapin joined the game
+[21:22:37] [Server thread/INFO]: [voicechat] Received secret request of brbrpatapin (18)
+[21:22:37] [Server thread/INFO]: [voicechat] Sent secret to brbrpatapin
+[21:22:38] [Netty Epoll Server IO #4/INFO]: [ShulkerBoxTooltip] brbrpatapin: protocol version: 2.0
+[21:22:38] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of brbrpatapin accepted server config.
+[21:22:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5e37de15-83f8-3397-94f2-bae69f3ab20e
+[21:22:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5e37de15-83f8-3397-94f2-bae69f3ab20e
+[21:22:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player brbrpatapin (5e37de15-83f8-3397-94f2-bae69f3ab20e) successfully connected to voice chat
+[21:23:20] [Server thread/INFO]: [Handshake] Sending channel query
+[21:23:20] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[21:23:20] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[21:23:20] [Server thread/INFO]: DieguitosMomos[/127.63.238.126:47169] logged in with entity id 2619 at (14.857701416451233, 63.0, 21.21762499869136)
+[21:23:20] [Server thread/INFO]: Syncing config to DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be)
+[21:23:20] [Server thread/INFO]: Loading config from file...
+[21:23:21] [Server thread/INFO]: DieguitosMomos joined the game
+[21:23:25] [Server thread/INFO]: [voicechat] Received secret request of DieguitosMomos (18)
+[21:23:25] [Server thread/INFO]: [voicechat] Sent secret to DieguitosMomos
+[21:23:25] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of DieguitosMomos accepted server config.
+[21:23:25] [Netty Epoll Server IO #6/INFO]: [ShulkerBoxTooltip] DieguitosMomos: protocol version: 2.0
+[21:23:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 667e1106-c282-3c6d-9682-c562a92340be
+[21:23:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 667e1106-c282-3c6d-9682-c562a92340be
+[21:23:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be) successfully connected to voice chat
+[21:24:03] [Server thread/INFO]: [DieguitosMomos: Teleported DieguitosMomos to brbrpatapin]
+[21:24:10] [Server thread/INFO]: [DieguitosMomos: Set own game mode to Creative Mode]
+[21:24:31] [Server thread/INFO]: brbrpatapin has made the advancement [Suit Up]
+[21:24:49] [Server thread/INFO]: brbrpatapin has made the advancement [Isn't It Iron Pick]
+[21:24:59] [Server thread/INFO]: DieguitosMomos has made the advancement [Acquire Hardware]
+[21:25:00] [Server thread/INFO]: [Handshake] Sending channel query
+[21:25:00] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[21:25:00] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[21:25:00] [Server thread/INFO]: Brrrdipdip[/127.23.122.61:39577] logged in with entity id 3073 at (130.30809200817703, 68.0, 214.9164236336515)
+[21:25:00] [Server thread/INFO]: Syncing config to Brrrdipdip (7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7)
+[21:25:00] [Server thread/INFO]: Loading config from file...
+[21:25:00] [Server thread/INFO]: Brrrdipdip joined the game
+[21:25:01] [Server thread/INFO]: [voicechat] Received secret request of Brrrdipdip (18)
+[21:25:01] [Server thread/INFO]: [voicechat] Sent secret to Brrrdipdip
+[21:25:01] [Netty Epoll Server IO #7/INFO]: [ShulkerBoxTooltip] Brrrdipdip: protocol version: 2.0
+[21:25:01] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Brrrdipdip accepted server config.
+[21:25:04] [Server thread/INFO]: brbrpatapin has made the advancement [Acquire Hardware]
+[21:25:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
+[21:25:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
+[21:25:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Brrrdipdip (7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7) successfully connected to voice chat
+[21:25:14] [Server thread/INFO]: [DieguitosMomos: Teleported DieguitosMomos to Brrrdipdip]
+[21:25:38] [Server thread/INFO]: [Not Secure] <Brrrdipdip> Heart
+[21:26:07] [Server thread/INFO]: Brrrdipdip has made the advancement [Cover Me with Diamonds]
+[21:26:13] [Server thread/INFO]: DieguitosMomos has made the advancement [Diamonds!]
+[21:26:23] [Server thread/INFO]: Brrrdipdip has made the advancement [Diamonds!]
+[21:26:53] [Server thread/INFO]: [Not Secure] <Brrrdipdip> Royal
+[21:27:46] [Server thread/INFO]: [Not Secure] <Brrrdipdip> harp
+[21:29:27] [Server thread/INFO]: [DieguitosMomos: Teleported DieguitosMomos to brbrpatapin]
+[21:29:29] [Server thread/INFO]: Brrrdipdip has made the advancement [Acquire Hardware]
+[21:29:37] [Server thread/INFO]: DieguitosMomos lost connection: Disconnected
+[21:29:37] [Server thread/INFO]: DieguitosMomos left the game
+[21:29:37] [Server thread/INFO]: [voicechat] Disconnecting client DieguitosMomos
+[21:29:49] [Server thread/INFO]: [Not Secure] <Brrrdipdip> duerme
+[21:31:47] [Server thread/INFO]: Brrrdipdip has made the advancement [Monster Hunter]
+[21:32:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=86, y=65, z=401} class_2338{x=87, y=63, z=402}
+[21:32:45] [Server thread/INFO]: [Not Secure] <Brrrdipdip> oe mathias
+[21:32:47] [Server thread/INFO]: [Not Secure] <Brrrdipdip> donde estas
+[21:32:52] [Server thread/INFO]: [Not Secure] <brbrpatapin> dime
+[21:33:00] [Server thread/INFO]: [Not Secure] <Brrrdipdip> donde estas
+[21:33:14] [Server thread/INFO]: [Not Secure] <brbrpatapin> 96,64,452
+[21:34:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=116, y=64, z=405} class_2338{x=113, y=63, z=405}
+[21:36:39] [Server thread/INFO]: Brrrdipdip has made the advancement [Hunt and Gather]
+[21:36:47] [Server thread/INFO]: brbrpatapin was shot by Brrrdipdip
+[21:36:47] [Server thread/INFO]: Created new backpack backup file for brbrpatapin with unique ID travelersbackpack.iron_08.08.2025-21.36.47.dat
+[21:36:47] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 128, 64, 375
+[21:36:47] [Server thread/INFO]: Created new backpack backup file for brbrpatapin with unique ID travelersbackpack.iron_08.08.2025-21.36.47.dat
+[21:36:47] [Server thread/INFO]: Your backpack has been placed at X: 126 Y: 64 Z: 375
+[21:36:47] [Server thread/INFO]: Brrrdipdip has made the advancement [Take Aim]
+[21:36:48] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of brbrpatapin accepted server config.
+[21:37:13] [Server thread/INFO]: [Not Secure] <Brrrdipdip> xd
+[21:37:17] [Server thread/INFO]: [Not Secure] <Brrrdipdip> por chistoso
+[21:38:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=115, y=64, z=408} class_2338{x=116, y=62, z=408}
+[21:43:02] [Server thread/INFO]: Brrrdipdip has made the advancement [Not Today, Thank You]
+[21:43:38] [Server thread/INFO]: brbrpatapin has made the advancement [Monster Hunter]
+[21:43:52] [Server thread/INFO]: Brrrdipdip has made the advancement [Best Friends Forever]
+[21:50:21] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[21:51:21] [Server thread/INFO]: brbrpatapin was shot by Brrrdipdip
+[21:51:21] [Server thread/INFO]: Created new backpack backup file for brbrpatapin with unique ID travelersbackpack.iron_08.08.2025-21.51.21.dat
+[21:51:21] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 99, 64, 414
+[21:51:21] [Server thread/INFO]: Created new backpack backup file for brbrpatapin with unique ID travelersbackpack.iron_08.08.2025-21.51.21.dat
+[21:51:21] [Server thread/INFO]: Your backpack has been placed at X: 97 Y: 64 Z: 414
+[21:51:23] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of brbrpatapin accepted server config.
+[21:55:47] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[22:00:01] [Server thread/INFO]: brbrpatapin has made the advancement [A Seedy Place]
+[22:01:13] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[22:09:02] [Server thread/INFO]: Brrrdipdip has made the advancement [Ice Bucket Challenge]
+[22:09:21] [Server thread/INFO]: [Not Secure] <Brrrdipdip> 678, 70
+[22:09:32] [Server thread/INFO]: [Not Secure] <Brrrdipdip> 678, 70 986
+[22:09:44] [Server thread/INFO]: [Not Secure] <Brrrdipdip> 678, 70, 986
+[22:09:53] [Server thread/INFO]: [Not Secure] <Brrrdipdip> esas son las cordenadas para un portal en ruinas
+[22:12:07] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[22:14:08] [Server thread/INFO]: [Handshake] Sending channel query
+[22:14:08] [Netty Epoll Server IO #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@4ea54cdd[id=<null>,name=Rodriguitomejiaa,properties={},legacy=false] (/127.180.77.137:60171): oωo > §chandshake failure
+incompatible client
+[22:14:08] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake failed, client did not respond to channel query
+[22:14:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ea54cdd[id=<null>,name=Rodriguitomejiaa,properties={},legacy=false] (/127.180.77.137:60171) lost connection: oωo > §chandshake failure
+incompatible client
+[22:14:11] [Server thread/INFO]: [Handshake] Sending channel query
+[22:14:12] [Netty Epoll Server IO #5/INFO]: Disconnecting com.mojang.authlib.GameProfile@2a97291[id=<null>,name=Rodriguitomejiaa,properties={},legacy=false] (/127.180.77.137:50495): oωo > §chandshake failure
+incompatible client
+[22:14:12] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake failed, client did not respond to channel query
+[22:14:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a97291[id=<null>,name=Rodriguitomejiaa,properties={},legacy=false] (/127.180.77.137:50495) lost connection: oωo > §chandshake failure
+incompatible client
+[22:17:33] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[22:18:38] [Server thread/INFO]: [Handshake] Sending channel query
+[22:18:38] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[22:18:38] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[22:18:38] [Server thread/INFO]: Rodriguitomejiaa[/127.180.77.137:53297] logged in with entity id 25734 at (29.5, 63.0, 13.5)
+[22:18:38] [Server thread/INFO]: Syncing config to Rodriguitomejiaa (7162abcc-b29b-33e1-80de-8fd1f9664f94)
+[22:18:38] [Server thread/INFO]: Loading config from file...
+[22:18:38] [Server thread/INFO]: Rodriguitomejiaa joined the game
+[22:18:40] [Server thread/INFO]: [voicechat] Received secret request of Rodriguitomejiaa (18)
+[22:18:40] [Server thread/INFO]: [voicechat] Sent secret to Rodriguitomejiaa
+[22:18:40] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Rodriguitomejiaa accepted server config.
+[22:18:40] [Netty Epoll Server IO #0/INFO]: [ShulkerBoxTooltip] Rodriguitomejiaa: protocol version: 2.0
+[22:18:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7162abcc-b29b-33e1-80de-8fd1f9664f94
+[22:18:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7162abcc-b29b-33e1-80de-8fd1f9664f94
+[22:18:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rodriguitomejiaa (7162abcc-b29b-33e1-80de-8fd1f9664f94) successfully connected to voice chat
+[22:20:11] [Server thread/INFO]: Rodriguitomejiaa was slain by Zombie
+[22:20:11] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 113, 69, 215
+[22:20:12] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Rodriguitomejiaa accepted server config.
+[22:21:51] [Server thread/INFO]: [Handshake] Sending channel query
+[22:21:51] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[22:21:51] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[22:21:51] [Server thread/INFO]: DieguitosMomos[/127.63.238.126:40671] logged in with entity id 28293 at (92.72692661478285, 86.86933220474562, 409.0567279820671)
+[22:21:51] [Server thread/INFO]: Syncing config to DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be)
+[22:21:51] [Server thread/INFO]: Loading config from file...
+[22:21:51] [Server thread/INFO]: DieguitosMomos joined the game
+[22:21:54] [Server thread/INFO]: [voicechat] Received secret request of DieguitosMomos (18)
+[22:21:54] [Server thread/INFO]: [voicechat] Sent secret to DieguitosMomos
+[22:21:54] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of DieguitosMomos accepted server config.
+[22:21:54] [Netty Epoll Server IO #2/INFO]: [ShulkerBoxTooltip] DieguitosMomos: protocol version: 2.0
+[22:22:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 667e1106-c282-3c6d-9682-c562a92340be
+[22:22:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 667e1106-c282-3c6d-9682-c562a92340be
+[22:22:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be) successfully connected to voice chat
+[22:22:51] [Server thread/INFO]: [DieguitosMomos: Teleported DieguitosMomos to Brrrdipdip]
+[22:22:59] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[22:23:16] [Server thread/INFO]: [Not Secure] <Brrrdipdip> me escuchas?
+[22:24:33] [Server thread/INFO]: DieguitosMomos lost connection: Disconnected
+[22:24:33] [Server thread/INFO]: DieguitosMomos left the game
+[22:24:33] [Server thread/INFO]: [voicechat] Disconnecting client DieguitosMomos
+[22:28:26] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[22:29:30] [Server thread/INFO]: [Not Secure] <brbrpatapin> xd
+[22:29:33] [Server thread/INFO]: Rodriguitomejiaa was slain by Iron Golem
+[22:29:33] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 83, 67, 211
+[22:29:35] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Rodriguitomejiaa accepted server config.
+[22:29:38] [Server thread/INFO]: [Not Secure] <brbrpatapin> xddd
+[22:31:13] [Server thread/INFO]: [Not Secure] <Rodriguitomejiaa> no andes de ladron
+[22:31:18] [Server thread/INFO]: [Not Secure] <Rodriguitomejiaa> y mucho menos de chistoso
+[22:31:22] [Server thread/INFO]: [Not Secure] <Rodriguitomejiaa> porque te madreo
+[22:31:24] [Server thread/INFO]: [Not Secure] <Brrrdipdip> que paso
+[22:32:03] [Server thread/INFO]: Rodriguitomejiaa was slain by Iron Golem
+[22:32:03] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 96, 64, 222
+[22:32:05] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Rodriguitomejiaa accepted server config.
+[22:32:11] [Server thread/INFO]: [Not Secure] <Brrrdipdip> XDD
+[22:32:14] [Server thread/INFO]: [Not Secure] <brbrpatapin> xddd
+[22:32:58] [Server thread/INFO]: Rodriguitomejiaa has made the advancement [Sweet Dreams]
+[22:32:58] [Server thread/INFO]: Rodriguitomejiaa was slain by brbrpatapin
+[22:32:58] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 80, 63, 266
+[22:33:00] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Rodriguitomejiaa accepted server config.
+[22:33:54] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[22:34:32] [Server thread/INFO]: [Not Secure] <Rodriguitomejiaa> ese mathias
+[22:34:39] [Server thread/INFO]: [Not Secure] <Rodriguitomejiaa> tiene full iron
+[22:34:45] [Server thread/INFO]: [Not Secure] <Rodriguitomejiaa> y me lo papeo con mi espadita de madera
+[22:34:47] [Server thread/INFO]: [Not Secure] <Rodriguitomejiaa> toda chafa
+[22:34:57] [Server thread/INFO]: [Not Secure] <Rodriguitomejiaa> me muero de habmre
+[22:35:30] [Server thread/INFO]: Rodriguitomejiaa has made the advancement [Acquire Hardware]
+[22:38:23] [Server thread/INFO]: Villager class_1646['Unemployed'/2390, l='ServerLevel[world]', x=131.33, y=69.85, z=208.13] died, message: 'Unemployed was slain by Zombie'
+[22:38:49] [Server thread/INFO]: Villager class_1646['Unemployed'/25766, l='ServerLevel[world]', x=110.70, y=72.56, z=199.70] died, message: 'Unemployed was slain by Zombie'
+[22:39:05] [Server thread/INFO]: Rodriguitomejiaa was slain by Zombie
+[22:39:05] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 83, 63, 216
+[22:39:06] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Rodriguitomejiaa accepted server config.
+[22:39:15] [Server thread/INFO]: [Not Secure] <Rodriguitomejiaa> me quede afk
+[22:39:16] [Server thread/INFO]: [Not Secure] <Brrrdipdip> dice todo eso y lo mata un zombi xd
+[22:39:20] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[22:39:21] [Server thread/INFO]: [Not Secure] <Brrrdipdip> xD?
+[22:39:23] [Server thread/INFO]: [Not Secure] <brbrpatapin> xd
+[22:39:50] [Server thread/INFO]: brbrpatapin was slain by Brrrdipdip
+[22:39:50] [Server thread/INFO]: Created new backpack backup file for brbrpatapin with unique ID travelersbackpack.iron_08.08.2025-22.39.50.dat
+[22:39:50] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 98, 64, 388
+[22:39:50] [Server thread/INFO]: Created new backpack backup file for brbrpatapin with unique ID travelersbackpack.iron_08.08.2025-22.39.50.dat
+[22:39:50] [Server thread/INFO]: Your backpack has been placed at X: 96 Y: 64 Z: 388
+[22:39:52] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of brbrpatapin accepted server config.
+[22:41:16] [Server thread/INFO]: brbrpatapin has made the advancement [Not Today, Thank You]
+[22:42:25] [Server thread/INFO]: [Not Secure] <Brrrdipdip> rodri
+[22:42:26] [Server thread/INFO]: Villager class_1646['Unemployed'/13995, l='ServerLevel[world]', x=113.14, y=69.00, z=215.59] died, message: 'Unemployed was slain by Zombie'
+[22:42:28] [Server thread/INFO]: [Not Secure] <Brrrdipdip> onde estas
+[22:44:47] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[22:45:17] [Server thread/INFO]: Stopping the server
+[22:45:17] [Server thread/INFO]: Stopping server
+[22:45:17] [Server thread/INFO]: Saving players
+[22:45:17] [Server thread/INFO]: brbrpatapin lost connection: Server closed
+[22:45:17] [Server thread/INFO]: brbrpatapin left the game
+[22:45:17] [Server thread/INFO]: Saving worlds
+[22:45:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:45:18] [Server thread/INFO]: Unloading server configs...
+[22:45:18] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
+[22:45:18] [Server thread/INFO]: Finished unloading server configs
