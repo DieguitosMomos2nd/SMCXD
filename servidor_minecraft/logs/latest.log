@@ -1387,3 +1387,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:05:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
 [22:05:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
 [22:05:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Brrrdipdip (7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7) successfully connected to voice chat
+[22:37:33] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Brrrdipdip accepted server config.
+[22:37:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
+[22:37:52] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[22:38:01] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/4942, l='ServerLevel[world]', x=105.45, y=124.00, z=-39.73] died: Headless Warrior was slain by Brrrdipdip
+[22:38:47] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Brrrdipdip accepted server config.
+[22:39:39] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Brrrdipdip accepted server config.
+[22:40:12] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/5725, l='ServerLevel[world]', x=96.59, y=125.00, z=-28.58] died: Headless Warrior was doomed to fall by Brrrdipdip
+[22:40:49] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/6139, l='ServerLevel[world]', x=116.65, y=93.00, z=-10.90] died: Headless Warrior fell from a high place
+[22:41:03] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/6123, l='ServerLevel[world]', x=115.60, y=134.00, z=-48.60] died: Headless Warrior was slain by Brrrdipdip
+[22:41:04] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/6186, l='ServerLevel[world]', x=179.20, y=84.00, z=-13.39] died: Headless Warrior was shot by Piglin
+[22:41:27] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/6179, l='ServerLevel[world]', x=100.84, y=121.00, z=-18.85] died: Headless Warrior was slain by Brrrdipdip
