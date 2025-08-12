@@ -1017,6 +1017,7 @@
       "minecraft:cave_spider": "2025-08-10 21:21:09 +0000",
       "minecraft:piglin": "2025-08-12 02:46:27 +0000",
       "minecraft:enderman": "2025-08-07 00:51:43 +0000",
+      "minecraft:vex": "2025-08-12 22:43:20 +0000",
       "minecraft:zombie": "2025-08-06 00:36:38 +0000",
       "minecraft:zombie_villager": "2025-08-08 02:02:35 +0000"
     },
@@ -6625,6 +6626,30 @@
   "mcdw:recipes/glaives/spear_venom_glaive": {
     "criteria": {
       "has_vine": "2025-08-12 03:00:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-08-12 22:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-12 22:43:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-12 22:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-12 22:43:23 +0000"
     },
     "done": true
   },

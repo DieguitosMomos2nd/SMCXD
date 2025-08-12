@@ -1399,3 +1399,11 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [22:41:03] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/6123, l='ServerLevel[world]', x=115.60, y=134.00, z=-48.60] died: Headless Warrior was slain by Brrrdipdip
 [22:41:04] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/6186, l='ServerLevel[world]', x=179.20, y=84.00, z=-13.39] died: Headless Warrior was shot by Piglin
 [22:41:27] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/6179, l='ServerLevel[world]', x=100.84, y=121.00, z=-18.85] died: Headless Warrior was slain by Brrrdipdip
+[22:42:04] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/6333, l='ServerLevel[world]', x=113.30, y=120.00, z=-8.12] died: Headless Warrior was slain by Brrrdipdip
+[22:42:19] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/6218, l='ServerLevel[world]', x=89.36, y=124.00, z=-7.57] died: Headless Warrior was slain by Brrrdipdip
+[22:42:25] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/6523, l='ServerLevel[world]', x=84.59, y=124.00, z=-15.59] died: Headless Warrior was slain by Brrrdipdip
+[22:43:05] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Brrrdipdip accepted server config.
+[22:43:20] [Server thread/INFO]: Brrrdipdip has reached the goal [Apparitions]
+[22:43:20] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/6752, l='ServerLevel[world]', x=809.52, y=139.49, z=10.35] died: Restless Spirit was slain by Brrrdipdip
+[22:50:21] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
