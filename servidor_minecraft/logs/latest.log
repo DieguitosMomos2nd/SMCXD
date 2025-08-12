@@ -1413,3 +1413,26 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [23:00:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
 [23:00:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
 [23:00:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Brrrdipdip (7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7) successfully connected to voice chat
+[23:13:17] [Server thread/INFO]: Brrrdipdip lost connection: Disconnected
+[23:13:17] [Server thread/INFO]: Brrrdipdip left the game
+[23:13:17] [Server thread/INFO]: [voicechat] Disconnecting client Brrrdipdip
+[23:20:57] [Server thread/INFO]: [Handshake] Sending channel query
+[23:20:57] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[23:20:57] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[23:20:57] [Server thread/INFO]: Brrrdipdip[/127.23.122.61:57621] logged in with entity id 11363 at (804.8597086212444, 139.0, 18.731097974251554)
+[23:20:57] [Server thread/INFO]: Syncing config to Brrrdipdip (7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7)
+[23:20:57] [Server thread/INFO]: Loading config from file...
+[23:20:57] [Server thread/INFO]: Brrrdipdip joined the game
+[23:20:59] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Brrrdipdip accepted server config.
+[23:20:59] [Server thread/INFO]: [voicechat] Received secret request of Brrrdipdip (18)
+[23:20:59] [Netty Epoll Server IO #4/INFO]: [ShulkerBoxTooltip] Brrrdipdip: protocol version: 2.0
+[23:20:59] [Server thread/INFO]: [voicechat] Sent secret to Brrrdipdip
+[23:21:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
+[23:21:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
+[23:21:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Brrrdipdip (7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7) successfully connected to voice chat
+[23:21:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7 timed out
+[23:21:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Brrrdipdip
+[23:21:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Brrrdipdip
+[23:21:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
+[23:21:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
+[23:21:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Brrrdipdip (7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7) successfully connected to voice chat
