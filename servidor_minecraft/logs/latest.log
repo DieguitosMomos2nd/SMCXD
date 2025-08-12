@@ -1436,3 +1436,7 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [23:21:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
 [23:21:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7
 [23:21:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Brrrdipdip (7ca9c3e8-3cf5-37e5-b08e-0a29b6af78a7) successfully connected to voice chat
+[23:42:53] [Server thread/INFO]: [Not Secure] <Brrrdipdip> xd
+[23:48:14] [Server thread/INFO]: Brrrdipdip lost connection: Disconnected
+[23:48:14] [Server thread/INFO]: Brrrdipdip left the game
+[23:48:14] [Server thread/INFO]: [voicechat] Disconnecting client Brrrdipdip
