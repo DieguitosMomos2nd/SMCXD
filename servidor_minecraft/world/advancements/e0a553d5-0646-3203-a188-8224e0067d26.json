@@ -5044,117 +5044,51 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-12 02:46:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-12 01:48:20 +0000"
+      "has_chest": "2025-08-12 01:38:34 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "travelersbackpack:recipes/misc/standard": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-08-12 01:40:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-08-12 01:40:48 +0000"
+      "has_chest": "2025-08-12 01:38:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
     "criteria": {
-      "has_ancient_debris": "2025-08-12 01:52:03 +0000"
+      "has_iron_chestplate": "2025-08-12 01:39:10 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
     "criteria": {
-      "has_planks": "2025-08-12 01:44:55 +0000"
+      "has_iron_chestplate": "2025-08-12 01:39:10 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
     "criteria": {
-      "has_planks": "2025-08-12 01:49:07 +0000"
+      "has_iron_chestplate": "2025-08-12 01:39:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall": {
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
     "criteria": {
-      "has_blackstone": "2025-08-12 01:44:55 +0000"
+      "has_iron_leggings": "2025-08-12 01:39:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-12 01:39:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-12 01:39:16 +0000"
     },
     "done": true
   },
@@ -5164,9 +5098,75 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-08-12 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-08-12 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-08-12 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-08-12 01:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-12 01:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-12 01:40:48 +0000"
+    },
+    "done": true
+  },
   "incendium:withered_forest/root": {
     "criteria": {
       "requirement": "2025-08-12 01:40:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-08-12 01:40:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:withered_forest": "2025-08-12 01:40:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-08-12 01:40:56 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-08-12 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-08-12 01:44:55 +0000"
     },
     "done": true
   },
@@ -5182,75 +5182,9 @@
     },
     "done": true
   },
-  "mcda:recipes/crafting_items/gemstone_white": {
-    "criteria": {
-      "has_quartz": "2025-08-12 02:08:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-08-12 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-08-12 02:08:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-12 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-08-12 02:08:46 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard_no_tanks": {
-    "criteria": {
-      "has_chest": "2025-08-12 01:38:34 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/snow_armor_chestplate": {
-    "criteria": {
-      "has_iron_chestplate": "2025-08-12 01:39:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-08-12 02:08:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-12 01:48:20 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
-    "criteria": {
-      "has_iron_chestplate": "2025-08-12 01:39:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-08-12 02:08:46 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/nether_bricks_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-08-12 01:49:07 +0000"
     },
     "done": true
   },
@@ -5266,30 +5200,6 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/reinforced_mail_helmet": {
-    "criteria": {
-      "has_iron_helmet": "2025-08-12 01:39:24 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:withered_forest": "2025-08-12 01:40:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/quartz": {
-    "criteria": {
-      "has_quartz": "2025-08-12 02:08:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-12 01:49:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-08-12 01:44:55 +0000"
@@ -5302,57 +5212,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-12 01:49:07 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:withered_forest": "2025-08-12 01:40:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-12 01:49:07 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-08-12 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-12 01:48:20 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/mercenary_armor_leggings": {
-    "criteria": {
-      "has_iron_leggings": "2025-08-12 01:39:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-08-12 01:48:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-08-12 01:44:57 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/mercenary_armor_helmet": {
-    "criteria": {
-      "has_iron_helmet": "2025-08-12 01:39:24 +0000"
     },
     "done": true
   },
@@ -5362,21 +5224,129 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "entered_nether": "2025-08-12 01:40:48 +0000"
+      "has_blackstone": "2025-08-12 01:44:55 +0000"
     },
     "done": true
   },
-  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
-      "has_iron_leggings": "2025-08-12 01:39:16 +0000"
+      "has_blackstone": "2025-08-12 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-08-12 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-08-12 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-08-12 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-08-12 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-08-12 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-08-12 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-12 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-12 01:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-12 01:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-12 01:48:20 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-08-12 01:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-12 01:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-12 01:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-08-12 01:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-08-12 01:49:07 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-08-12 01:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-12 01:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-12 01:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-12 01:49:07 +0000"
     },
     "done": true
   },
@@ -5398,33 +5368,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-08-12 01:52:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-12 01:49:07 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
-    "criteria": {
-      "has_iron_chestplate": "2025-08-12 01:39:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-12 01:48:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-08-12 02:01:57 +0000"
     },
     "done": true
   },
@@ -5434,21 +5380,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-08-12 01:44:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-08-12 01:49:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
-      "has_blackstone": "2025-08-12 01:44:55 +0000"
+      "has_nether_bricks": "2025-08-12 01:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-12 01:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-12 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-12 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-12 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-12 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-12 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-12 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2025-08-12 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-12 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-12 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-12 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-12 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-08-12 02:08:46 +0000"
     },
     "done": true
   },
@@ -5461,96 +5479,6 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-08-12 02:08:46 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard": {
-    "criteria": {
-      "has_chest": "2025-08-12 01:38:34 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/snow_armor_helmet": {
-    "criteria": {
-      "has_iron_helmet": "2025-08-12 01:39:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-12 01:49:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-12 01:48:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-08-12 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/blackstone_bridge": {
-    "criteria": {
-      "has_planks": "2025-08-12 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-08-12 01:40:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
-    "criteria": {
-      "has_blackstone": "2025-08-12 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-08-12 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-08-12 02:01:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-08-12 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/snow_armor_leggings": {
-    "criteria": {
-      "has_iron_leggings": "2025-08-12 01:39:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-12 01:49:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-08-12 02:01:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-08-12 01:44:55 +0000"
     },
     "done": true
   },
